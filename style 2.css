@@ -1,0 +1,54 @@
+body {
+  background-color: #39ac39;
+  color: #000000;
+}
+
+.header {
+  text-align: center;
+}
+
+#img-div {
+  text-align: center;
+}
+
+#image {
+  width: 100%;
+  height: auto;
+}
+
+#tribute-info {
+  text-align: center;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+ul li {
+  text-align: left;
+  margin-top: 15px;
+}
+
+.footer {
+  text-align: center;
+}
+
+a {
+  color: #ff0000;
+}
+
+a:hover {
+  color: #ffffff;
+}
+
+a:visited {
+  color: #0000ff;
+}
+
+a:active {
+  color: #ffff00;
+}
+
+#msg {
+  text-align: center;
+}
